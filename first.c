@@ -11,7 +11,7 @@ int main() {
     scanf("%s", name); 
     
     // 4. Print the final message
-    printf("\nHello, %s! u are the best .\n", name); 
+    printf("\nHello, %s! git git .\n", name); 
 
     return 0;
 }
