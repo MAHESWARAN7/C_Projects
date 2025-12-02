@@ -5,7 +5,7 @@ int main() {
     char name[50]; 
     
     // 2. Prompt the user for input
-    printf("Enter your name: ");
+    printf("Enter anything on ur own : ");
     
     // 3. Get the input from the keyboard
     scanf("%s", name); 
